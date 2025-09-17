@@ -27,7 +27,7 @@ Clone the Repository
 Clone the repository to your local machine:
 
 
-git clone https://github.com/yourusername/catalog-api.git
+git clone https://github.com/anupchaudhari86-collab/catalogAPI
 
 
 cp .env.example .env
